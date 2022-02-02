@@ -16,10 +16,12 @@
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/oneplus9/aospa_oneplus9.mk \
     $(LOCAL_DIR)/oneplus9pro/aospa_oneplus9pro.mk \
+    $(LOCAL_DIR)/vayu/aospa_vayu.mk \
     $(LOCAL_DIR)/violet/aospa_violet.mk
 
 # Lunch targets
 COMMON_LUNCH_CHOICES += \
     aospa_oneplus9-userdebug \
     aospa_oneplus9pro-userdebug \
+    aospa_vayu-userdebug \
     aospa_violet-userdebug
