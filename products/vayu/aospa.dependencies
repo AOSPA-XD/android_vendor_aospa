@@ -1,19 +1,19 @@
 [
     {
         "remote":       "github",
-        "repository":   "AOSPA-XD/android_device_xiaomi_vayu",
+        "repository":   "poco-x3p/android_device_xiaomi_vayu",
         "target_path":  "device/xiaomi/vayu",
         "revision":     "sapphire"
     },
     {
         "remote":       "github",
-        "repository":   "AOSPA-XD/android_kernel_xiaomi_vayu",
+        "repository":   "raghavt20/kernel_sm8150",
         "target_path":  "kernel/xiaomi/vayu",
         "revision":     "sapphire"
     },
     {
         "remote":       "github",
-        "repository":   "AOSPA-XD/proprietary_vendor_xiaomi_vayu",
+        "repository":   "poco-x3p/android_vendor_xiaomi_vayu",
         "target_path":  "vendor/xiaomi/vayu",
         "revision":     "sapphire"
     },
